@@ -1,6 +1,6 @@
 {
   "name": "venus-browserify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Venus plugin for browserify",
   "main": "index.js",
   "directories": {
